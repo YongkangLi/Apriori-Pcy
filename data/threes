@@ -1,0 +1,264 @@
+('rolls/buns', 'other vegetables', 'pip fruit') , 0.005
+('whipped/sour cream', 'domestic eggs', 'other vegetables') , 0.005
+('bottled water', 'citrus fruit', 'other vegetables') , 0.005
+('whole milk', 'butter', 'citrus fruit') , 0.005
+('whole milk', 'oil', 'other vegetables') , 0.005
+('whole milk', 'chocolate', 'soda') , 0.005
+('whole milk', 'sausage', 'whipped/sour cream') , 0.005
+('tropical fruit', 'pastry', 'other vegetables') , 0.005
+('whole milk', 'pastry', 'pip fruit') , 0.005
+('whole milk', 'yogurt', 'coffee') , 0.005
+('whole milk', 'brown bread', 'soda') , 0.005
+('newspapers', 'rolls/buns', 'yogurt') , 0.005
+('yogurt', 'soda', 'fruit/vegetable juice') , 0.005
+('bottled water', 'bottled beer', 'soda') , 0.005
+('whole milk', 'newspapers', 'tropical fruit') , 0.005
+('bottled water', 'sausage', 'other vegetables') , 0.005
+('soda', 'domestic eggs', 'other vegetables') , 0.005
+('whole milk', 'root vegetables', 'frankfurter') , 0.005
+('rolls/buns', 'frozen vegetables', 'whole milk') , 0.005
+('whole milk', 'citrus fruit', 'pip fruit') , 0.005
+('whole milk', 'margarine', 'domestic eggs') , 0.005
+('whole milk', 'bottled beer', 'yogurt') , 0.005
+('bottled water', 'soda', 'fruit/vegetable juice') , 0.005
+('whole milk', 'soda', 'domestic eggs') , 0.005
+('tropical fruit', 'bottled water', 'soda') , 0.005
+('whole milk', 'hygiene articles', 'other vegetables') , 0.005
+('rolls/buns', 'margarine', 'other vegetables') , 0.005
+('whole milk', 'tropical fruit', 'frankfurter') , 0.005
+('sausage', 'root vegetables', 'yogurt') , 0.005
+('cream cheese ', 'yogurt', 'other vegetables') , 0.005
+('beef', 'yogurt', 'other vegetables') , 0.005
+('yogurt', 'brown bread', 'other vegetables') , 0.005
+('tropical fruit', 'root vegetables', 'pip fruit') , 0.005
+('whole milk', 'yogurt', 'shopping bags') , 0.005
+('rolls/buns', 'whole milk', 'napkins') , 0.005
+('yogurt', 'frozen vegetables', 'other vegetables') , 0.005
+('root vegetables', 'yogurt', 'pip fruit') , 0.005
+('whole milk', 'rolls/buns', 'shopping bags') , 0.005
+('rolls/buns', 'other vegetables', 'shopping bags') , 0.005
+('rolls/buns', 'chicken', 'whole milk') , 0.005
+('whole milk', 'rolls/buns', 'brown bread') , 0.005
+('tropical fruit', 'curd', 'other vegetables') , 0.005
+('whole milk', 'root vegetables', 'shopping bags') , 0.005
+('tropical fruit', 'yogurt', 'curd') , 0.005
+('other vegetables', 'soda', 'shopping bags') , 0.005
+('whole milk', 'rolls/buns', 'bottled beer') , 0.005
+('whole milk', 'bottled water', 'butter') , 0.005
+('yogurt', 'other vegetables', 'shopping bags') , 0.005
+('rolls/buns', 'pastry', 'soda') , 0.005
+('whole milk', 'domestic eggs', 'pip fruit') , 0.005
+('rolls/buns', 'bottled water', 'tropical fruit') , 0.005
+('other vegetables', 'sausage', 'shopping bags') , 0.005
+('tropical fruit', 'rolls/buns', 'soda') , 0.005
+('pastry', 'soda', 'other vegetables') , 0.005
+('whole milk', 'whipped/sour cream', 'soda') , 0.005
+('whole milk', 'chocolate', 'other vegetables') , 0.005
+('tropical fruit', 'butter', 'other vegetables') , 0.005
+('root vegetables', 'curd', 'other vegetables') , 0.005
+('rolls/buns', 'newspapers', 'other vegetables') , 0.005
+('tropical fruit', 'citrus fruit', 'pip fruit') , 0.006
+('rolls/buns', 'pork', 'other vegetables') , 0.006
+('rolls/buns', 'whole milk', 'fruit/vegetable juice') , 0.006
+('whipped/sour cream', 'other vegetables', 'pip fruit') , 0.006
+('rolls/buns', 'frankfurter', 'other vegetables') , 0.006
+('whole milk', 'sausage', 'pip fruit') , 0.006
+('newspapers', 'yogurt', 'other vegetables') , 0.006
+('yogurt', 'sausage', 'soda') , 0.006
+('whole milk', 'whipped/sour cream', 'domestic eggs') , 0.006
+('whole milk', 'brown bread', 'tropical fruit') , 0.006
+('whole milk', 'pastry', 'sausage') , 0.006
+('tropical fruit', 'root vegetables', 'citrus fruit') , 0.006
+('margarine', 'yogurt', 'other vegetables') , 0.006
+('whipped/sour cream', 'citrus fruit', 'other vegetables') , 0.006
+('whole milk', 'pastry', 'root vegetables') , 0.006
+('onions', 'root vegetables', 'other vegetables') , 0.006
+('whole milk', 'brown bread', 'root vegetables') , 0.006
+('sausage', 'soda', 'shopping bags') , 0.006
+('whole milk', 'citrus fruit', 'domestic eggs') , 0.006
+('bottled water', 'soda', 'other vegetables') , 0.006
+('chicken', 'root vegetables', 'other vegetables') , 0.006
+('rolls/buns', 'butter', 'other vegetables') , 0.006
+('whole milk', 'long life bakery product', 'other vegetables') , 0.006
+('rolls/buns', 'yogurt', 'citrus fruit') , 0.006
+('rolls/buns', 'pastry', 'yogurt') , 0.006
+('whole milk', 'bottled water', 'fruit/vegetable juice') , 0.006
+('yogurt', 'domestic eggs', 'other vegetables') , 0.006
+('whipped/sour cream', 'butter', 'other vegetables') , 0.006
+('newspapers', 'root vegetables', 'whole milk') , 0.006
+('beef', 'rolls/buns', 'other vegetables') , 0.006
+('whole milk', 'whipped/sour cream', 'curd') , 0.006
+('rolls/buns', 'domestic eggs', 'other vegetables') , 0.006
+('whole milk', 'white bread', 'other vegetables') , 0.006
+('rolls/buns', 'curd', 'whole milk') , 0.006
+('margarine', 'root vegetables', 'other vegetables') , 0.006
+('whole milk', 'bottled water', 'citrus fruit') , 0.006
+('pastry', 'root vegetables', 'other vegetables') , 0.006
+('citrus fruit', 'other vegetables', 'pip fruit') , 0.006
+('tropical fruit', 'rolls/buns', 'root vegetables') , 0.006
+('whole milk', 'chicken', 'root vegetables') , 0.006
+('rolls/buns', 'sausage', 'shopping bags') , 0.006
+('tropical fruit', 'sausage', 'other vegetables') , 0.006
+('whole milk', 'butter', 'domestic eggs') , 0.006
+('whole milk', 'tropical fruit', 'fruit/vegetable juice') , 0.006
+('rolls/buns', 'citrus fruit', 'other vegetables') , 0.006
+('rolls/buns', 'whole milk', 'frankfurter') , 0.006
+('newspapers', 'root vegetables', 'other vegetables') , 0.006
+('whole milk', 'whipped/sour cream', 'pip fruit') , 0.006
+('rolls/buns', 'yogurt', 'sausage') , 0.006
+('rolls/buns', 'pastry', 'other vegetables') , 0.006
+('yogurt', 'curd', 'other vegetables') , 0.006
+('whole milk', 'yogurt', 'napkins') , 0.006
+('root vegetables', 'frozen vegetables', 'other vegetables') , 0.006
+('whole milk', 'bottled water', 'bottled beer') , 0.006
+('whole milk', 'yogurt', 'frozen vegetables') , 0.006
+('whole milk', 'soda', 'fruit/vegetable juice') , 0.006
+('beef', 'yogurt', 'whole milk') , 0.006
+('tropical fruit', 'yogurt', 'whipped/sour cream') , 0.006
+('rolls/buns', 'whole milk', 'pip fruit') , 0.006
+('whole milk', 'rolls/buns', 'pork') , 0.006
+('whole milk', 'root vegetables', 'curd') , 0.006
+('whole milk', 'yogurt', 'frankfurter') , 0.006
+('whole milk', 'root vegetables', 'frozen vegetables') , 0.006
+('whole milk', 'butter', 'tropical fruit') , 0.006
+('tropical fruit', 'bottled water', 'other vegetables') , 0.006
+('whole milk', 'whipped/sour cream', 'citrus fruit') , 0.006
+('tropical fruit', 'yogurt', 'citrus fruit') , 0.006
+('rolls/buns', 'soda', 'shopping bags') , 0.006
+('whole milk', 'other vegetables', 'sugar') , 0.006
+('whole milk', 'hamburger meat', 'other vegetables') , 0.006
+('tropical fruit', 'yogurt', 'pip fruit') , 0.006
+('yogurt', 'butter', 'other vegetables') , 0.006
+('yogurt', 'whipped/sour cream', 'root vegetables') , 0.006
+('whole milk', 'other vegetables', 'coffee') , 0.006
+('whole milk', 'root vegetables', 'fruit/vegetable juice') , 0.007
+('whole milk', 'curd', 'tropical fruit') , 0.007
+('whole milk', 'cream cheese ', 'other vegetables') , 0.007
+('root vegetables', 'other vegetables', 'shopping bags') , 0.007
+('root vegetables', 'other vegetables', 'fruit/vegetable juice') , 0.007
+('whole milk', 'onions', 'other vegetables') , 0.007
+('tropical fruit', 'other vegetables', 'fruit/vegetable juice') , 0.007
+('newspapers', 'yogurt', 'whole milk') , 0.007
+('pastry', 'yogurt', 'other vegetables') , 0.007
+('whole milk', 'rolls/buns', 'butter') , 0.007
+('whole milk', 'cream cheese ', 'yogurt') , 0.007
+('whole milk', 'rolls/buns', 'domestic eggs') , 0.007
+('tropical fruit', 'yogurt', 'soda') , 0.007
+('root vegetables', 'butter', 'other vegetables') , 0.007
+('whole milk', 'sausage', 'soda') , 0.007
+('whole milk', 'whipped/sour cream', 'butter') , 0.007
+('whole milk', 'pastry', 'tropical fruit') , 0.007
+('rolls/buns', 'whipped/sour cream', 'other vegetables') , 0.007
+('whole milk', 'other vegetables', 'napkins') , 0.007
+('whole milk', 'beef', 'rolls/buns') , 0.007
+('rolls/buns', 'bottled water', 'soda') , 0.007
+('whole milk', 'pork', 'root vegetables') , 0.007
+('sausage', 'root vegetables', 'other vegetables') , 0.007
+('whole milk', 'soda', 'shopping bags') , 0.007
+('whole milk', 'tropical fruit', 'domestic eggs') , 0.007
+('pork', 'root vegetables', 'other vegetables') , 0.007
+('whole milk', 'margarine', 'yogurt') , 0.007
+('bottled water', 'root vegetables', 'other vegetables') , 0.007
+('tropical fruit', 'bottled water', 'yogurt') , 0.007
+('whole milk', 'yogurt', 'brown bread') , 0.007
+('rolls/buns', 'bottled water', 'yogurt') , 0.007
+('rolls/buns', 'yogurt', 'root vegetables') , 0.007
+('whole milk', 'rolls/buns', 'citrus fruit') , 0.007
+('whole milk', 'sausage', 'tropical fruit') , 0.007
+('tropical fruit', 'soda', 'other vegetables') , 0.007
+('sausage', 'soda', 'other vegetables') , 0.007
+('root vegetables', 'domestic eggs', 'other vegetables') , 0.007
+('rolls/buns', 'bottled water', 'other vegetables') , 0.007
+('whole milk', 'bottled water', 'root vegetables') , 0.007
+('bottled water', 'yogurt', 'soda') , 0.007
+('whole milk', 'bottled water', 'soda') , 0.008
+('whole milk', 'frankfurter', 'other vegetables') , 0.008
+('whole milk', 'other vegetables', 'shopping bags') , 0.008
+('newspapers', 'rolls/buns', 'whole milk') , 0.008
+('whole milk', 'bottled beer', 'other vegetables') , 0.008
+('yogurt', 'citrus fruit', 'other vegetables') , 0.008
+('whole milk', 'yogurt', 'domestic eggs') , 0.008
+('whole milk', 'sausage', 'root vegetables') , 0.008
+('whole milk', 'rolls/buns', 'whipped/sour cream') , 0.008
+('tropical fruit', 'rolls/buns', 'other vegetables') , 0.008
+('tropical fruit', 'whipped/sour cream', 'other vegetables') , 0.008
+('whole milk', 'soda', 'tropical fruit') , 0.008
+('rolls/buns', 'margarine', 'whole milk') , 0.008
+('whole milk', 'whipped/sour cream', 'tropical fruit') , 0.008
+('beef', 'root vegetables', 'other vegetables') , 0.008
+('beef', 'root vegetables', 'whole milk') , 0.008
+('whole milk', 'bottled water', 'tropical fruit') , 0.008
+('tropical fruit', 'yogurt', 'root vegetables') , 0.008
+('root vegetables', 'other vegetables', 'pip fruit') , 0.008
+('sausage', 'yogurt', 'other vegetables') , 0.008
+('whole milk', 'root vegetables', 'soda') , 0.008
+('bottled water', 'yogurt', 'other vegetables') , 0.008
+('yogurt', 'other vegetables', 'pip fruit') , 0.008
+('root vegetables', 'soda', 'other vegetables') , 0.008
+('whole milk', 'pastry', 'soda') , 0.008
+('yogurt', 'other vegetables', 'fruit/vegetable juice') , 0.008
+('whole milk', 'root vegetables', 'butter') , 0.008
+('yogurt', 'soda', 'other vegetables') , 0.008
+('newspapers', 'other vegetables', 'whole milk') , 0.008
+('whole milk', 'tropical fruit', 'pip fruit') , 0.008
+('whole milk', 'chicken', 'other vegetables') , 0.008
+('rolls/buns', 'pastry', 'whole milk') , 0.009
+('whole milk', 'root vegetables', 'domestic eggs') , 0.009
+('whipped/sour cream', 'other vegetables', 'root vegetables') , 0.009
+('rolls/buns', 'yogurt', 'soda') , 0.009
+('tropical fruit', 'rolls/buns', 'yogurt') , 0.009
+('whole milk', 'yogurt', 'sausage') , 0.009
+('whole milk', 'bottled water', 'rolls/buns') , 0.009
+('rolls/buns', 'soda', 'whole milk') , 0.009
+('rolls/buns', 'sausage', 'other vegetables') , 0.009
+('whole milk', 'root vegetables', 'pip fruit') , 0.009
+('whole milk', 'citrus fruit', 'tropical fruit') , 0.009
+('tropical fruit', 'citrus fruit', 'other vegetables') , 0.009
+('whole milk', 'root vegetables', 'citrus fruit') , 0.009
+('whole milk', 'pastry', 'yogurt') , 0.009
+('beef', 'whole milk', 'other vegetables') , 0.009
+('whole milk', 'margarine', 'other vegetables') , 0.009
+('whole milk', 'brown bread', 'other vegetables') , 0.009
+('whole milk', 'yogurt', 'butter') , 0.009
+('rolls/buns', 'sausage', 'whole milk') , 0.009
+('tropical fruit', 'other vegetables', 'pip fruit') , 0.009
+('whole milk', 'yogurt', 'fruit/vegetable juice') , 0.009
+('whole milk', 'whipped/sour cream', 'root vegetables') , 0.009
+('whole milk', 'yogurt', 'pip fruit') , 0.010
+('rolls/buns', 'sausage', 'soda') , 0.010
+('whole milk', 'frozen vegetables', 'other vegetables') , 0.010
+('whole milk', 'bottled water', 'yogurt') , 0.010
+('rolls/buns', 'soda', 'other vegetables') , 0.010
+('whole milk', 'curd', 'other vegetables') , 0.010
+('whole milk', 'yogurt', 'curd') , 0.010
+('yogurt', 'whipped/sour cream', 'other vegetables') , 0.010
+('whole milk', 'sausage', 'other vegetables') , 0.010
+('whole milk', 'pork', 'other vegetables') , 0.010
+('whole milk', 'yogurt', 'citrus fruit') , 0.010
+('root vegetables', 'citrus fruit', 'other vegetables') , 0.010
+('whole milk', 'yogurt', 'soda') , 0.010
+('whole milk', 'other vegetables', 'fruit/vegetable juice') , 0.010
+('whole milk', 'pastry', 'other vegetables') , 0.011
+('whole milk', 'bottled water', 'other vegetables') , 0.011
+('whole milk', 'yogurt', 'whipped/sour cream') , 0.011
+('whole milk', 'rolls/buns', 'tropical fruit') , 0.011
+('whole milk', 'butter', 'other vegetables') , 0.011
+('rolls/buns', 'yogurt', 'other vegetables') , 0.011
+('whole milk', 'root vegetables', 'tropical fruit') , 0.012
+('rolls/buns', 'root vegetables', 'other vegetables') , 0.012
+('tropical fruit', 'root vegetables', 'other vegetables') , 0.012
+('tropical fruit', 'yogurt', 'other vegetables') , 0.012
+('whole milk', 'domestic eggs', 'other vegetables') , 0.012
+('rolls/buns', 'root vegetables', 'whole milk') , 0.013
+('yogurt', 'other vegetables', 'root vegetables') , 0.013
+('whole milk', 'citrus fruit', 'other vegetables') , 0.013
+('whole milk', 'other vegetables', 'pip fruit') , 0.014
+('whole milk', 'soda', 'other vegetables') , 0.014
+('whole milk', 'yogurt', 'root vegetables') , 0.015
+('whole milk', 'whipped/sour cream', 'other vegetables') , 0.015
+('whole milk', 'yogurt', 'tropical fruit') , 0.015
+('rolls/buns', 'yogurt', 'whole milk') , 0.016
+('whole milk', 'tropical fruit', 'other vegetables') , 0.017
+('whole milk', 'rolls/buns', 'other vegetables') , 0.018
+('whole milk', 'yogurt', 'other vegetables') , 0.022
+('whole milk', 'root vegetables', 'other vegetables') , 0.023

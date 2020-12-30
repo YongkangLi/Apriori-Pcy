@@ -1,0 +1,120 @@
+('beef', 'rolls/buns') ==> ('whole milk',) , 0.500
+('brown bread', 'other vegetables') ==> ('whole milk',) , 0.500
+('pork', 'root vegetables') ==> ('whole milk',) , 0.500
+('whipped/sour cream', 'root vegetables') ==> ('other vegetables',) , 0.500
+('root vegetables', 'frankfurter') ==> ('whole milk',) , 0.500
+('yogurt', 'root vegetables') ==> ('other vegetables',) , 0.500
+('rolls/buns', 'frozen vegetables') ==> ('whole milk',) , 0.500
+('rolls/buns', 'root vegetables') ==> ('other vegetables',) , 0.502
+('whole milk', 'yogurt', 'tropical fruit') ==> ('other vegetables',) , 0.503
+('newspapers', 'root vegetables') ==> ('whole milk',) , 0.504
+('root vegetables', 'curd') ==> ('other vegetables',) , 0.505
+('yogurt', 'fruit/vegetable juice') ==> ('whole milk',) , 0.505
+('whipped/sour cream', 'other vegetables') ==> ('whole milk',) , 0.507
+('tropical fruit', 'pastry') ==> ('whole milk',) , 0.508
+('rolls/buns', 'root vegetables', 'other vegetables') ==> ('whole milk',) , 0.508
+('whipped/sour cream', 'domestic eggs') ==> ('other vegetables',) , 0.510
+('oil', 'other vegetables') ==> ('whole milk',) , 0.510
+('root vegetables', 'domestic eggs') ==> ('other vegetables',) , 0.511
+('root vegetables', 'butter') ==> ('other vegetables',) , 0.512
+('yogurt', 'other vegetables') ==> ('whole milk',) , 0.513
+('whole milk', 'yogurt', 'whipped/sour cream') ==> ('other vegetables',) , 0.514
+('tropical fruit', 'curd') ==> ('other vegetables',) , 0.515
+('tropical fruit', 'curd') ==> ('yogurt',) , 0.515
+('pork', 'root vegetables') ==> ('other vegetables',) , 0.515
+('root vegetables', 'shopping bags') ==> ('other vegetables',) , 0.516
+('sausage', 'root vegetables') ==> ('whole milk',) , 0.517
+('root vegetables', 'citrus fruit') ==> ('whole milk',) , 0.517
+('pastry', 'yogurt') ==> ('whole milk',) , 0.517
+('tropical fruit', 'yogurt') ==> ('whole milk',) , 0.517
+('other vegetables', 'pip fruit') ==> ('whole milk',) , 0.518
+('tropical fruit', 'sausage') ==> ('whole milk',) , 0.518
+('pastry', 'root vegetables') ==> ('whole milk',) , 0.519
+('sausage', 'pip fruit') ==> ('whole milk',) , 0.519
+('yogurt', 'coffee') ==> ('whole milk',) , 0.521
+('beef', 'yogurt') ==> ('whole milk',) , 0.522
+('newspapers', 'root vegetables') ==> ('other vegetables',) , 0.522
+('rolls/buns', 'yogurt', 'other vegetables') ==> ('whole milk',) , 0.522
+('root vegetables', 'pip fruit') ==> ('other vegetables',) , 0.523
+('baking powder',) ==> ('whole milk',) , 0.523
+('rolls/buns', 'root vegetables') ==> ('whole milk',) , 0.523
+('whipped/sour cream', 'citrus fruit') ==> ('other vegetables',) , 0.523
+('chicken', 'root vegetables') ==> ('other vegetables',) , 0.523
+('yogurt', 'whipped/sour cream') ==> ('whole milk',) , 0.525
+('root vegetables', 'frozen vegetables') ==> ('other vegetables',) , 0.526
+('yogurt', 'pip fruit') ==> ('whole milk',) , 0.531
+('whole milk', 'yogurt', 'pip fruit') ==> ('other vegetables',) , 0.532
+('margarine', 'root vegetables') ==> ('other vegetables',) , 0.532
+('tropical fruit', 'brown bread') ==> ('whole milk',) , 0.533
+('long life bakery product', 'other vegetables') ==> ('whole milk',) , 0.533
+('rolls/buns', 'whipped/sour cream') ==> ('whole milk',) , 0.535
+('root vegetables', 'frozen vegetables') ==> ('whole milk',) , 0.535
+('pastry', 'root vegetables') ==> ('other vegetables',) , 0.537
+('whole milk', 'yogurt', 'fruit/vegetable juice') ==> ('other vegetables',) , 0.538
+('rolls/buns', 'margarine') ==> ('whole milk',) , 0.538
+('whole milk', 'yogurt', 'root vegetables') ==> ('other vegetables',) , 0.538
+('yogurt', 'domestic eggs') ==> ('whole milk',) , 0.539
+('root vegetables', 'fruit/vegetable juice') ==> ('whole milk',) , 0.542
+('hygiene articles', 'other vegetables') ==> ('whole milk',) , 0.543
+('frozen vegetables', 'other vegetables') ==> ('whole milk',) , 0.543
+('whole milk', 'onions') ==> ('other vegetables',) , 0.546
+('cream cheese ', 'yogurt') ==> ('whole milk',) , 0.546
+('rolls/buns', 'chicken') ==> ('whole milk',) , 0.547
+('tropical fruit', 'frankfurter') ==> ('whole milk',) , 0.548
+('whole milk', 'whipped/sour cream', 'root vegetables') ==> ('other vegetables',) , 0.548
+('citrus fruit', 'domestic eggs') ==> ('whole milk',) , 0.549
+('rolls/buns', 'pork') ==> ('whole milk',) , 0.550
+('yogurt', 'whipped/sour cream', 'other vegetables') ==> ('whole milk',) , 0.550
+('root vegetables', 'fruit/vegetable juice') ==> ('other vegetables',) , 0.551
+('tropical fruit', 'butter') ==> ('other vegetables',) , 0.551
+('chicken', 'root vegetables') ==> ('whole milk',) , 0.551
+('domestic eggs', 'other vegetables') ==> ('whole milk',) , 0.553
+('whipped/sour cream', 'root vegetables') ==> ('whole milk',) , 0.554
+('yogurt', 'frankfurter') ==> ('whole milk',) , 0.555
+('citrus fruit', 'butter') ==> ('whole milk',) , 0.556
+('root vegetables', 'citrus fruit', 'other vegetables') ==> ('whole milk',) , 0.559
+('brown bread', 'root vegetables') ==> ('whole milk',) , 0.560
+('bottled beer', 'yogurt') ==> ('whole milk',) , 0.560
+('sausage', 'whipped/sour cream') ==> ('whole milk',) , 0.562
+('yogurt', 'root vegetables') ==> ('whole milk',) , 0.563
+('whipped/sour cream', 'curd') ==> ('whole milk',) , 0.563
+('tropical fruit', 'whipped/sour cream') ==> ('other vegetables',) , 0.566
+('whipped/sour cream', 'butter') ==> ('other vegetables',) , 0.570
+('tropical fruit', 'root vegetables') ==> ('whole milk',) , 0.570
+('root vegetables', 'curd') ==> ('whole milk',) , 0.570
+('tropical fruit', 'root vegetables', 'other vegetables') ==> ('whole milk',) , 0.570
+('whipped/sour cream', 'domestic eggs') ==> ('whole milk',) , 0.571
+('tropical fruit', 'whipped/sour cream') ==> ('whole milk',) , 0.574
+('butter', 'other vegetables') ==> ('whole milk',) , 0.574
+('curd', 'other vegetables') ==> ('whole milk',) , 0.574
+('root vegetables', 'pip fruit') ==> ('whole milk',) , 0.575
+('whipped/sour cream', 'citrus fruit') ==> ('whole milk',) , 0.579
+('yogurt', 'curd') ==> ('whole milk',) , 0.582
+('tropical fruit', 'root vegetables') ==> ('other vegetables',) , 0.585
+('tropical fruit', 'root vegetables', 'whole milk') ==> ('other vegetables',) , 0.585
+('other vegetables', 'sugar') ==> ('whole milk',) , 0.585
+('rolls/buns', 'curd') ==> ('whole milk',) , 0.586
+('root vegetables', 'citrus fruit') ==> ('other vegetables',) , 0.586
+('root vegetables', 'domestic eggs') ==> ('whole milk',) , 0.596
+('onions', 'root vegetables') ==> ('other vegetables',) , 0.602
+('bottled water', 'butter') ==> ('whole milk',) , 0.602
+('whipped/sour cream', 'pip fruit') ==> ('other vegetables',) , 0.604
+('yogurt', 'other vegetables', 'root vegetables') ==> ('whole milk',) , 0.606
+('tropical fruit', 'domestic eggs') ==> ('whole milk',) , 0.607
+('whipped/sour cream', 'other vegetables', 'root vegetables') ==> ('whole milk',) , 0.607
+('whole milk', 'root vegetables', 'pip fruit') ==> ('other vegetables',) , 0.614
+('yogurt', 'other vegetables', 'fruit/vegetable juice') ==> ('whole milk',) , 0.617
+('tropical fruit', 'yogurt', 'other vegetables') ==> ('whole milk',) , 0.620
+('butter', 'domestic eggs') ==> ('whole milk',) , 0.621
+('margarine', 'domestic eggs') ==> ('whole milk',) , 0.622
+('tropical fruit', 'butter') ==> ('whole milk',) , 0.622
+('domestic eggs', 'pip fruit') ==> ('whole milk',) , 0.624
+('yogurt', 'other vegetables', 'pip fruit') ==> ('whole milk',) , 0.625
+('whole milk', 'root vegetables', 'citrus fruit') ==> ('other vegetables',) , 0.633
+('tropical fruit', 'curd') ==> ('whole milk',) , 0.634
+('root vegetables', 'butter') ==> ('whole milk',) , 0.638
+('yogurt', 'butter') ==> ('whole milk',) , 0.639
+('whipped/sour cream', 'pip fruit') ==> ('whole milk',) , 0.648
+('whipped/sour cream', 'butter') ==> ('whole milk',) , 0.660
+('root vegetables', 'other vegetables', 'pip fruit') ==> ('whole milk',) , 0.675
+('tropical fruit', 'yogurt', 'root vegetables') ==> ('whole milk',) , 0.700

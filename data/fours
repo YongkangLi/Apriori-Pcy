@@ -1,0 +1,12 @@
+('whole milk', 'yogurt', 'other vegetables', 'pip fruit') , 0.005
+('whole milk', 'yogurt', 'other vegetables', 'fruit/vegetable juice') , 0.005
+('whole milk', 'whipped/sour cream', 'root vegetables', 'other vegetables') , 0.005
+('whole milk', 'root vegetables', 'other vegetables', 'pip fruit') , 0.005
+('whole milk', 'yogurt', 'whipped/sour cream', 'other vegetables') , 0.006
+('tropical fruit', 'whole milk', 'yogurt', 'root vegetables') , 0.006
+('whole milk', 'root vegetables', 'citrus fruit', 'other vegetables') , 0.006
+('rolls/buns', 'whole milk', 'yogurt', 'other vegetables') , 0.006
+('rolls/buns', 'whole milk', 'root vegetables', 'other vegetables') , 0.006
+('tropical fruit', 'whole milk', 'root vegetables', 'other vegetables') , 0.007
+('whole milk', 'tropical fruit', 'yogurt', 'other vegetables') , 0.008
+('whole milk', 'yogurt', 'root vegetables', 'other vegetables') , 0.008

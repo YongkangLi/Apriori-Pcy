@@ -1,0 +1,120 @@
+('liver loaf',) , 0.005
+('curd cheese',) , 0.005
+('cleaner',) , 0.005
+('spices',) , 0.005
+('jam',) , 0.005
+('sauces',) , 0.005
+('softener',) , 0.005
+('sparkling wine',) , 0.006
+('cereals',) , 0.006
+('dental care',) , 0.006
+('kitchen towels',) , 0.006
+('female sanitary products',) , 0.006
+('vinegar',) , 0.007
+('finished products',) , 0.007
+('soups',) , 0.007
+('zwieback',) , 0.007
+('popcorn',) , 0.007
+('instant coffee',) , 0.007
+('rice',) , 0.008
+('liquor (appetizer)',) , 0.008
+('Instant food products',) , 0.008
+('turkey',) , 0.008
+('house keeping products',) , 0.008
+('frozen potato products',) , 0.008
+('specialty cheese',) , 0.009
+('dog food',) , 0.009
+('roll products ',) , 0.009
+('candles',) , 0.009
+('chocolate marshmallow',) , 0.009
+('sweet spreads',) , 0.009
+('mayonnaise',) , 0.009
+('photo/film',) , 0.009
+('pet care',) , 0.009
+('condensed milk',) , 0.010
+('flower (seeds)',) , 0.010
+('dish cleaner',) , 0.010
+('canned vegetables',) , 0.011
+('frozen dessert',) , 0.011
+('salt',) , 0.011
+('liquor',) , 0.011
+('spread cheese',) , 0.011
+('cling film/bags',) , 0.011
+('frozen fish',) , 0.012
+('mustard',) , 0.012
+('packaged fruit/vegetables',) , 0.013
+('cake bar',) , 0.013
+('seasonal products',) , 0.014
+('pasta',) , 0.015
+('canned fish',) , 0.015
+('herbs',) , 0.016
+('processed cheese',) , 0.017
+('soft cheese',) , 0.017
+('pot plants',) , 0.017
+('flour',) , 0.017
+('dishes',) , 0.018
+('baking powder',) , 0.018
+('semi-finished bread',) , 0.018
+('pickled vegetables',) , 0.018
+('white wine',) , 0.019
+('detergent',) , 0.019
+('red/blush wine',) , 0.019
+('chewing gum',) , 0.021
+('grapes',) , 0.022
+('cat food',) , 0.023
+('hard cheese',) , 0.025
+('sliced cheese',) , 0.025
+('ice cream',) , 0.025
+('meat',) , 0.026
+('beverages',) , 0.026
+('ham',) , 0.026
+('specialty bar',) , 0.027
+('butter milk',) , 0.028
+('oil',) , 0.028
+('misc. beverages',) , 0.028
+('frozen meals',) , 0.028
+('candy',) , 0.030
+('specialty chocolate',) , 0.030
+('onions',) , 0.031
+('hygiene articles',) , 0.033
+('berries',) , 0.033
+('hamburger meat',) , 0.033
+('UHT-milk',) , 0.033
+('sugar',) , 0.034
+('dessert',) , 0.037
+('cream cheese ',) , 0.037
+('long life bakery product',) , 0.037
+('salty snack',) , 0.038
+('waffles',) , 0.038
+('white bread',) , 0.042
+('chicken',) , 0.043
+('frozen vegetables',) , 0.048
+('chocolate',) , 0.050
+('napkins',) , 0.052
+('beef',) , 0.052
+('curd',) , 0.053
+('butter',) , 0.055
+('pork',) , 0.058
+('coffee',) , 0.058
+('margarine',) , 0.059
+('frankfurter',) , 0.059
+('domestic eggs',) , 0.063
+('brown bread',) , 0.065
+('whipped/sour cream',) , 0.072
+('fruit/vegetable juice',) , 0.072
+('pip fruit',) , 0.076
+('canned beer',) , 0.078
+('newspapers',) , 0.080
+('bottled beer',) , 0.081
+('citrus fruit',) , 0.083
+('pastry',) , 0.089
+('sausage',) , 0.094
+('shopping bags',) , 0.099
+('tropical fruit',) , 0.105
+('root vegetables',) , 0.109
+('bottled water',) , 0.111
+('yogurt',) , 0.139
+('soda',) , 0.174
+('rolls/buns',) , 0.184
+('other vegetables',) , 0.193
+('whole milk',) , 0.255
